@@ -27,4 +27,3 @@ elif operacion == "dividir":
 
 else:
     print("Operación no válida. Por favor, elige 'sumar', 'restar', 'multiplicar' o 'dividir'.")
-
