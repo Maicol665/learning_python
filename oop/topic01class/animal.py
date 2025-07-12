@@ -12,4 +12,5 @@ class Animal(ABC):
 
     @abstractmethod
     def reproduce(self) -> None:
-        pas
+        pass
+    
